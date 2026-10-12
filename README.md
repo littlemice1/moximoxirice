@@ -1,2 +1,2 @@
 # moximoxirice
-very silly, didn't useful
+very silly, useless as hell.
