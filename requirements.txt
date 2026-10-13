@@ -1,0 +1,7 @@
+# 运行游戏
+pygame==2.6.1
+
+# 自动化测试
+pytest==9.1.1
+pytest-cov==7.1.0
+pytest-html==4.2.0

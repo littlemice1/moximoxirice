@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+htmlcov/
+.coverage
+
+# 游戏运行时产物
+maze.dat
+
+# 文档构建脚本（临时）
+_build/
+
+# 系统文件
+Thumbs.db
+.DS_Store
